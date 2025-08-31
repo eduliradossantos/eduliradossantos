@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Olá, eu sou Eduardo Lira<br><br>🎓 Mestrando em Arqueologia e estudante de **Análise e Desenvolvimento de Sistemas**  <br>💻 Interesses: **Back-End (Java, Node.js, Spring Boot), Front-End (React, Angular), Bancos de Dados e Projetos em TI**  <br>🚀 Buscando oportunidades em **estágio e projetos na área de tecnologia**  <br>📍 Recife - PE
+👋 Hi, I'm Eduardo Lira<br><br>🎓 Master's student in **Archaeology** and currently studying **Systems Analysis and Development**  <br>💻 Interests: **Back-End (Java, Node.js, Spring Boot), Front-End (React, Angular), Databases, and IT Project Management**  <br>🚀 Seeking opportunities in **internships and projects in technology**  <br>📍 Recife, Brazil
 
 
 ## 🌐 Socials:
